@@ -1,12 +1,7 @@
 # 🌟 Welcome to My Profile! 🌌  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00BFFF&height=80&section=header&text=⚡%20Exploring%20Elctronics%20&fontSize=26&fontColor=fff"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:9D00FF&height=80&section=header&text=🚀%20Building%20Cool%20Projects&fontSize=26&fontColor=fff"/>
-</p> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00BFFF&height=80&section=header&text=⚡%20Exploring%20Tech%20and%20Learning%20Cool%20Stuffs%20🚀&fontSize=26&fontColor=fff"/>
 
 
 
