@@ -6,10 +6,10 @@
 
 
 ## 👨‍💻 About Me  
-- 🔭 Constantly learning and building projects in **C, Embedded Systems & Digital Design**  
-- 🌱 Exploring **Verification Engineering & Firmware Development**  
+- 🔭 Constantly learning and building projects in **Digital Design & Embedded Systems**  
+- 🌱 Exploring **Chip Design & Development**  
 - 💡 Passionate about **AI, Semiconductor Tech & Open Source**  
-- 🎯 Goal: To become a **skilled Verification/Embedded Engineer**  
+- 🎯 Goal: To become a **skilled VLSI Engineer**  
 - ⚡ Fun fact: I can explain tricky concepts *with memes & analogies* 😆  
 
 ---
